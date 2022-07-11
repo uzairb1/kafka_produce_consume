@@ -1,0 +1,4 @@
+Python
+pandas
+kafka-python
+pandasql
